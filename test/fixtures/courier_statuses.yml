@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  status_code: 1
+  status: MyString
+  courier_detail: one
+
+two:
+  status_code: 1
+  status: MyString
+  courier_detail: two
